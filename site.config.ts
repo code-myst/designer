@@ -13,8 +13,8 @@ const siteConfig = {
   contact: { email: "hello@example.com" },
     adminEmail: "your-admin@email.com",
     cloudinary: {
-    cloudName: "dbdkxzx7z",
-    uploadPreset: "designer-site",
+    cloudName: "wswiilug",
+    uploadPreset: "atifaj",
   },
   projects: [
     { id: "1", title: "Brand Identity", category: "Branding" },
